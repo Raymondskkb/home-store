@@ -35,7 +35,6 @@ With flask setup you are ready to start running the application. Simply type the
 This will start up the application for you and you can go to `http://127.0.0.1:5000/` to see the application!
 
 
-Tests
-E2E tests with Cypress
+# Tests
+Attempt to have E2E tests with Cypress.  still to be explored
 
-npm run tests
