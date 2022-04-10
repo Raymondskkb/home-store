@@ -1,3 +1,4 @@
 
 *.pyc
 *.env.js
+node_modules/
