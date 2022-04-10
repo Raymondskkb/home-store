@@ -1,0 +1,8 @@
+{   "baseUrl":"http://127.0.0.1:5000/",
+    "env":{
+        
+        "userName":"fakeuser1@gmail.com",
+        "password":"12345"
+    }
+
+}
